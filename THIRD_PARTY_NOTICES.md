@@ -19,3 +19,5 @@
 本版新增喜马拉雅扫码、订阅与喜欢的声音列表、专辑分页和单集导入、受限分享链接跳转、媒体域名验证、账号 DPAPI 保存及独立 F7 原生播放器适配。沿用 B站版长音频 PCM 文件读取与缓存清理。扫码、签名及 URL 封装兼容用于正常客户端请求，播放权限由服务端验证，不包含音频 DRM 解密或付费权限绕过。
 
 游戏、Unity、TextMeshPro、UniTask、R3、ObservableCollections 和 Newtonsoft.Json 仅从本地游戏引用，不随包分发。Windows Media Foundation 由操作系统提供。无 Go、Node 运行时或额外本地 API 服务依赖。
+
+真实播放记录兼容性实现的协议来源见 PLAYBACK_REPORTING.md；没有复制或分发平台网页播放器的整份代码或美术资源。

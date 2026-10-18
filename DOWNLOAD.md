@@ -1,5 +1,5 @@
-# 下载
+# 候选版下载
 
-[下载喜马拉雅版 v1.0.0 一键安装包](https://github.com/daguoguoha/chill-with-you-ximalaya-native/releases/download/v1.0.0/ChillXimalayaNative-1.0.0-OneClick.zip)
+[喜马拉雅 v1.1.0-rc.1](https://github.com/daguoguoha/chill-with-you-ximalaya-native/releases/tag/v1.1.0-rc.1)
 
-完整解压，退出游戏后运行 ChillXimalayaSetup.exe；游戏内按 F7。
+完整解压退出游戏后安装。平台时长入账尚待验证。
